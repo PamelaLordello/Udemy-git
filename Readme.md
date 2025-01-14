@@ -8,7 +8,11 @@ git commit -m "Criação do Readme.md"
 
 git push 
 
-"Verifica as últimas modificações, antes de lançar."
+"Verifica as últimas modificações no arquivo, antes de lançar."
 
 git diff
+
+"Para resetar o arquivo"
+
+git checkout "mais o nome do arquivo"
 

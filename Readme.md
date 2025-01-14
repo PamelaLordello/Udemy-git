@@ -12,7 +12,7 @@ git push
 
 git diff
 
-"Para resetar o arquivo"
+"Para retirar as modificações do arquivo"
 
 git checkout "mais o nome do arquivo"
 

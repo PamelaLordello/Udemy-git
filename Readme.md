@@ -1,18 +1,27 @@
 # Comandos Git
+"Texto referente ao que foi feito no projeto"
+
+"Adiciona alterações a um arquivo local."
 
 git add .
 
-"Texto refente ao que foi feito no projeto"
+"Registrar alterações em arquivo, junto a confirmação."
 
 git commit -m "Criação do Readme.md"
 
+"Transfere alteração do repositório local para um repositório remoto."
+
 git push 
 
-"Verifica as últimas modificações no arquivo, antes de lançar."
+"Verifica as últimas modificações no arquivo."
 
 git diff
 
 "Para retirar as modificações do arquivo"
 
 git checkout "mais o nome do arquivo"
+
+"Exibe o histórico de commits de um repositório."
+
+git log
 

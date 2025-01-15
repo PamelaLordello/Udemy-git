@@ -25,3 +25,6 @@ git checkout "mais o nome do arquivo"
 
 git log
 
+"Cópia um repositório Git para um novo diretório no computador local."
+
+git clone
